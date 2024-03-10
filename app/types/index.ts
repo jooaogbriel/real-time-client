@@ -1,6 +1,7 @@
 export type Input = {
     type: string,
-    placeholder: string
+    placeholder: string,
+    name: string,
 }
 
 export type ButtonType = {
